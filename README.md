@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2d5fd1778db8bb1cb010748a80ae97878e832330f1da45519a4305014d57b08c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadeshchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="swadeshchhetri" /> </p>
-<script src="https://gist.github.com/swadeshChhetri/0482b8029c116b620d11b5fa5754732d.js"></script>
+
 - 🌱 I’m currently learning **web development as part of my internship at Internpe **
 
 - 👨‍💻 All of my projects are available at [https://swadeshchhetri.github.io/Portfolio/](https://swadeshchhetri.github.io/Portfolio/)
