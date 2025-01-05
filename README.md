@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://swadeshchhetri.github.io/Portfolio/](https://swadeshchhetri.github.io/Portfolio/)
 
-- 💬 Ask me about **React , MERN**
+- 💬 Ask me about **React , PHP**
 
 - 📫 How to reach me **swadeshchhetri65@gmail.com**
 
