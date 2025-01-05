@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swadeshchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="swadeshchhetri" /> </p>
 
-- 🌱 I’m currently learning **web development as part of my internship at Internpe **
+- 🌱 I’m currently learning **full-stack web development as part of my internship at Calanjiyam Consultancies and Technologies **
 
 - 👨‍💻 All of my projects are available at [https://swadeshchhetri.github.io/Portfolio/](https://swadeshchhetri.github.io/Portfolio/)
 
