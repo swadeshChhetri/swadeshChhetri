@@ -42,10 +42,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
   
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
 
   <!-- Database & Tools -->
   <img src="https://skillicons.dev/icons?i=mysql,git,vscode,postman" />
