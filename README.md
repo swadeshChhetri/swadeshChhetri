@@ -31,6 +31,9 @@
   <a href="mailto:swadeshchhetri65@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" />
   </a>
+  <a href="https://www.youtube.com/@SwadeshWebWorks" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-SwadeshWebWorks-red?logo=youtube&logoColor=white&style=for-the-badge" alt="Swadesh WebWorks YouTube Channel" />
+</a>
 </p>
 
 ---
